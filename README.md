@@ -1,4 +1,4 @@
 # demo
 this is my first Git repo.
 <br>
-Author - SHASHI VERMA
+Author - SHASHI VERMA Github
